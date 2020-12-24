@@ -1,0 +1,11 @@
+.root{
+    -fx-background-image: url("res/newmonop.png");
+    -fx-background-repeat: no-repeat;
+}
+.scroll-pane {
+    -fx-background-image: url("res/monopback.png");
+    -fx-background-color:transparent;
+}
+.pane {
+    -fx-background-color:transparent;
+}
